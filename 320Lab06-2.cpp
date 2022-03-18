@@ -9,7 +9,7 @@ string str;
 cout << "Input a state: " << endl;
 cin >> str;
 m["Maryland"] = "Salisbury";
-m["New York"] = "New York";
+m["Delaware"] = "Dover";
 m["Ohio"] = "Columbus";
 m["Texas"] = "Dallas";
 m["Arizona"] = "Pheonix";
